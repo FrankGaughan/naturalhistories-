@@ -1,6 +1,6 @@
 “Account of an Expedition from Pittsburgh to the Rocky Mountains, Performed in the Years 1819 and ‘20 : By Order of the Hon. J.C. Calhoun, Sec’y of War: Under the Command of Major Stephen H. Long. From the Notes of Major Long, Mr. T. Say, and Other Gentlemen of the Exploring Party : James, Edwin, 1797-1861, Comp. Internet Archive. Accessed April 26, 2015. https://archive.org/details/accountofexpedit01jame.
 ***
-**Note:**
+**Note**
 
 The excerpted material is from Chapter IX of the account, which notes that the information is taken from the journal of Thomas Say and that the events transpired in the vicinity of Council Bluffs. Say served as zoologist on this expedition. His account of the coyote is the first to place the animal within the Linnaean taxonomy as *canis latrans*. 
 
