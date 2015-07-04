@@ -1,8 +1,11 @@
 “Account of an Expedition from Pittsburgh to the Rocky Mountains, Performed in the Years 1819 and ‘20 : By Order of the Hon. J.C. Calhoun, Sec’y of War: Under the Command of Major Stephen H. Long. From the Notes of Major Long, Mr. T. Say, and Other Gentlemen of the Exploring Party : James, Edwin, 1797-1861, Comp. Internet Archive. Accessed April 26, 2015. https://archive.org/details/accountofexpedit01jame.
 
+
 **Note:**
 
 The excerpted material is from Chapter IX of the account, which notes that the information is taken from the journal of Thomas Say and that the events transpired in the vicinity of Council Bluffs. Say served as zoologist on this expedition. His account of the coyote is the first to place the animal within the Linnaean taxonomy as *canis latrans*. 
+
+Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition.  View Peale's watercolor sketch: http://coyote.omeka.net/admin/files/show/75
 
 
 The prairie wolves roam over the plains in considerable numbers, and during the night, the principal season of their hunts, they venture very near to the encampment of the traveller. They are by far the most numerous of our wolves, and often unite in packs for the purpose of chasing deer, which they very frequently succeed in running down, and killing. This, however, is an achievement attended with much difficulty to them, and in which the exertion of their utmost swiftness and cunning, are so often unavailing, that they are sometimes reduced to the necessity of eating wild plums, and other fruits, to them almost indigestible, in order to distend the stomach, and appease in a degree the cravings of hunger. 
