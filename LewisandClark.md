@@ -1,4 +1,5 @@
 “The Journals of Lewis and Clark, by Meriwether Lewis and William Clark.” Accessed July 4, 2015. http://www.gutenberg.org/files/8419/8419-h/8419-h.htm.
+
 <b>Note:</b>
 
 At the time of Lewis and Clark’s expedition, the word “coyote” was not in English usage. In The Journals of Lewis and Clark, the coyote is variously referred to as a “prarie wolf,” a “brush wolf,” or a “burrowing wolf of the Praries.” The coyote is initially mistaken for a fox (see entry, 18 September 1804). Later in the journey, Lewis and Clark sent a pelt of a coyote along with other animals to President Jefferson (see entry, 3 April 1805). 
