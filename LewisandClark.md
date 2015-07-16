@@ -1,4 +1,4 @@
-The Journals of Lewis and Clark, by Meriwether Lewis and William Clark. http://www.gutenberg.org/files/8419/8419-h/8419-h.htm.
+The Journals of Lewis and Clark, by Meriwether Lewis and William Clark. A Project Gutenberg EBook. http://www.gutenberg.org/files/8419/8419-h/8419-h.htm.
 
 ***
 Note:
