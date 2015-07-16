@@ -21,6 +21,11 @@ The latrans does not diffuse the offensive odour, so remarkable in the two speci
 
 
 *Canis latrans.*
+***
+*Note*
+The image from the original text may be of interest. It is posted here:
+http://coyote.omeka.net/admin/files/show/78
+***
 Cinereous or gray, varied with black above, and dull fulvous, or cinnamon; hair at base dusky plumbeous, in the middle of its length dull cinnamon, and at tip gray or black, longer on the vertebral line; ears erect, rounded at tip, cinnamon behind, the hair dark plumbeous
 at base, inside lined with gray hair; eyelids edged with black, superior eyelashes black beneath, and at tip above; supplemental lid margined with black-brown before, and edged with black brown behind; iris yellow; pupil black-blue; spot upon the lachrymal sac black-brown; rostrum
 cinnamon, tinctured with grayish on the nose; lips white, edged with black, three series of black seta; head between the ears intermixed with gray, and dull cinnamon, hairs dusky plumbeous at 
