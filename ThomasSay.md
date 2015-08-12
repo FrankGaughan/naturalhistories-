@@ -4,7 +4,7 @@
 
 The excerpted material is from Chapter IX of the account, which notes that the information is taken from the journal of Thomas Say and that the events transpired in the vicinity of Council Bluffs. Say served as zoologist on this expedition. His account of the coyote is the first to place the animal within the Linnaean taxonomy as *canis latrans*.
 
-Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition.  View Peale's watercolor sketch: http://coyote.omeka.net/admin/files/show/75
+Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition.  View Peale's watercolor [sketch.] (https://s3.amazonaws.com/omeka-net/12543/archive/files/9649ce9fb5aecdb91505575715416063.png?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1439381599&Signature=Y940UYc%2BqZVQRXU%2Fe7ILrPaVIZE%3D)
 ***
 
 The prairie wolves roam over the plains in considerable numbers, and during the night, the principal season of their hunts, they venture very near to the encampment of the traveller. They are by far the most numerous of our wolves, and often unite in packs for the purpose of chasing deer, which they very frequently succeed in running down, and killing. This, however, is an achievement attended with much difficulty to them, and in which the exertion of their utmost swiftness and cunning, are so often unavailing, that they are sometimes reduced to the necessity of eating wild plums, and other fruits, to them almost indigestible, in order to distend the stomach, and appease in a degree the cravings of hunger.
@@ -23,8 +23,7 @@ The latrans does not diffuse the offensive odour, so remarkable in the two speci
 *Canis latrans.*
 ***
 *Note*
-The image from the original text may be of interest. It is posted here:
-http://coyote.omeka.net/admin/files/show/78
+[The image from the original text may be of interest.] (https://s3.amazonaws.com/omeka-net/12543/archive/files/233855beaeb0069f8e534bac08c23c94.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1439381976&Signature=FAtanbpm2yXViL9EjVqvu0onQ%2FA%3D)
 ***
 Cinereous or gray, varied with black above, and dull fulvous, or cinnamon; hair at base dusky plumbeous, in the middle of its length dull cinnamon, and at tip gray or black, longer on the vertebral line; ears erect, rounded at tip, cinnamon behind, the hair dark plumbeous
 at base, inside lined with gray hair; eyelids edged with black, superior eyelashes black beneath, and at tip above; supplemental lid margined with black-brown before, and edged with black brown behind; iris yellow; pupil black-blue; spot upon the lachrymal sac black-brown; rostrum
